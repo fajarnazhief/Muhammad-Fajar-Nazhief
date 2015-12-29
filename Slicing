@@ -1,0 +1,2062 @@
+<html>
+<head>
+<title>indonesiaX-tri-test</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- ImageReady Styles (indonesiaX-tri-test.psd) -->
+<style type="text/css">
+<!--
+
+#Table_01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1600px;
+	height:2746px;
+}
+
+#muhammad-fajar-nazhief-01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1600px;
+	height:35px;
+}
+
+#muhammad-fajar-nazhief-02 {
+	position:absolute;
+	left:0px;
+	top:35px;
+	width:1170px;
+	height:6px;
+}
+
+#muhammad-fajar-nazhief-03 {
+	position:absolute;
+	left:1170px;
+	top:35px;
+	width:205px;
+	height:37px;
+}
+
+#muhammad-fajar-nazhief-04 {
+	position:absolute;
+	left:1375px;
+	top:35px;
+	width:40px;
+	height:37px;
+}
+
+#muhammad-fajar-nazhief-05 {
+	position:absolute;
+	left:1415px;
+	top:35px;
+	width:185px;
+	height:2711px;
+}
+
+#muhammad-fajar-nazhief-06 {
+	position:absolute;
+	left:0px;
+	top:41px;
+	width:185px;
+	height:2705px;
+}
+
+#muhammad-fajar-nazhief-07 {
+	position:absolute;
+	left:185px;
+	top:41px;
+	width:323px;
+	height:80px;
+}
+
+#muhammad-fajar-nazhief-08 {
+	position:absolute;
+	left:508px;
+	top:41px;
+	width:662px;
+	height:88px;
+}
+
+#muhammad-fajar-nazhief-09 {
+	position:absolute;
+	left:1170px;
+	top:72px;
+	width:245px;
+	height:58px;
+}
+
+#muhammad-fajar-nazhief-10 {
+	position:absolute;
+	left:185px;
+	top:121px;
+	width:323px;
+	height:43px;
+}
+
+#muhammad-fajar-nazhief-11 {
+	position:absolute;
+	left:508px;
+	top:129px;
+	width:533px;
+	height:2px;
+}
+
+#muhammad-fajar-nazhief-12 {
+	position:absolute;
+	left:1041px;
+	top:129px;
+	width:59px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-13 {
+	position:absolute;
+	left:1100px;
+	top:129px;
+	width:70px;
+	height:1px;
+}
+
+#muhammad-fajar-nazhief-14 {
+	position:absolute;
+	left:1100px;
+	top:130px;
+	width:26px;
+	height:35px;
+}
+
+#muhammad-fajar-nazhief-15 {
+	position:absolute;
+	left:1126px;
+	top:130px;
+	width:59px;
+	height:16px;
+}
+
+#muhammad-fajar-nazhief-16 {
+	position:absolute;
+	left:1185px;
+	top:130px;
+	width:24px;
+	height:35px;
+}
+
+#muhammad-fajar-nazhief-17 {
+	position:absolute;
+	left:1209px;
+	top:130px;
+	width:36px;
+	height:17px;
+}
+
+#muhammad-fajar-nazhief-18 {
+	position:absolute;
+	left:1245px;
+	top:130px;
+	width:25px;
+	height:35px;
+}
+
+#muhammad-fajar-nazhief-19 {
+	position:absolute;
+	left:1270px;
+	top:130px;
+	width:66px;
+	height:16px;
+}
+
+#muhammad-fajar-nazhief-20 {
+	position:absolute;
+	left:1336px;
+	top:130px;
+	width:30px;
+	height:35px;
+}
+
+#muhammad-fajar-nazhief-21 {
+	position:absolute;
+	left:1366px;
+	top:130px;
+	width:49px;
+	height:16px;
+}
+
+#muhammad-fajar-nazhief-22 {
+	position:absolute;
+	left:508px;
+	top:131px;
+	width:467px;
+	height:33px;
+}
+
+#muhammad-fajar-nazhief-23 {
+	position:absolute;
+	left:975px;
+	top:131px;
+	width:40px;
+	height:16px;
+}
+
+#muhammad-fajar-nazhief-24 {
+	position:absolute;
+	left:1015px;
+	top:131px;
+	width:26px;
+	height:34px;
+}
+
+#muhammad-fajar-nazhief-25 {
+	position:absolute;
+	left:1126px;
+	top:146px;
+	width:59px;
+	height:19px;
+}
+
+#muhammad-fajar-nazhief-26 {
+	position:absolute;
+	left:1270px;
+	top:146px;
+	width:66px;
+	height:19px;
+}
+
+#muhammad-fajar-nazhief-27 {
+	position:absolute;
+	left:1366px;
+	top:146px;
+	width:49px;
+	height:19px;
+}
+
+#muhammad-fajar-nazhief-28 {
+	position:absolute;
+	left:975px;
+	top:147px;
+	width:40px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-29 {
+	position:absolute;
+	left:1041px;
+	top:147px;
+	width:59px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-30 {
+	position:absolute;
+	left:1209px;
+	top:147px;
+	width:36px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-31 {
+	position:absolute;
+	left:185px;
+	top:164px;
+	width:482px;
+	height:232px;
+}
+
+#muhammad-fajar-nazhief-32 {
+	position:absolute;
+	left:667px;
+	top:164px;
+	width:308px;
+	height:1px;
+}
+
+#muhammad-fajar-nazhief-33 {
+	position:absolute;
+	left:667px;
+	top:165px;
+	width:748px;
+	height:462px;
+}
+
+#muhammad-fajar-nazhief-34 {
+	position:absolute;
+	left:185px;
+	top:396px;
+	width:482px;
+	height:231px;
+}
+
+#muhammad-fajar-nazhief-35 {
+	position:absolute;
+	left:185px;
+	top:627px;
+	width:482px;
+	height:231px;
+}
+
+#muhammad-fajar-nazhief-36 {
+	position:absolute;
+	left:667px;
+	top:627px;
+	width:748px;
+	height:116px;
+}
+
+#muhammad-fajar-nazhief-37 {
+	position:absolute;
+	left:667px;
+	top:743px;
+	width:748px;
+	height:11px;
+}
+
+#muhammad-fajar-nazhief-38 {
+	position:absolute;
+	left:667px;
+	top:754px;
+	width:40px;
+	height:104px;
+}
+
+#muhammad-fajar-nazhief-39 {
+	position:absolute;
+	left:707px;
+	top:754px;
+	width:100px;
+	height:38px;
+}
+
+#muhammad-fajar-nazhief-40 {
+	position:absolute;
+	left:807px;
+	top:754px;
+	width:608px;
+	height:104px;
+}
+
+#muhammad-fajar-nazhief-41 {
+	position:absolute;
+	left:707px;
+	top:792px;
+	width:100px;
+	height:27px;
+}
+
+#muhammad-fajar-nazhief-42 {
+	position:absolute;
+	left:707px;
+	top:819px;
+	width:9px;
+	height:9px;
+}
+
+#muhammad-fajar-nazhief-43 {
+	position:absolute;
+	left:716px;
+	top:819px;
+	width:7px;
+	height:39px;
+}
+
+#muhammad-fajar-nazhief-44 {
+	position:absolute;
+	left:723px;
+	top:819px;
+	width:9px;
+	height:9px;
+}
+
+#muhammad-fajar-nazhief-45 {
+	position:absolute;
+	left:732px;
+	top:819px;
+	width:7px;
+	height:39px;
+}
+
+#muhammad-fajar-nazhief-46 {
+	position:absolute;
+	left:739px;
+	top:819px;
+	width:9px;
+	height:9px;
+}
+
+#muhammad-fajar-nazhief-47 {
+	position:absolute;
+	left:748px;
+	top:819px;
+	width:59px;
+	height:39px;
+}
+
+#muhammad-fajar-nazhief-48 {
+	position:absolute;
+	left:707px;
+	top:828px;
+	width:9px;
+	height:30px;
+}
+
+#muhammad-fajar-nazhief-49 {
+	position:absolute;
+	left:723px;
+	top:828px;
+	width:9px;
+	height:30px;
+}
+
+#muhammad-fajar-nazhief-50 {
+	position:absolute;
+	left:739px;
+	top:828px;
+	width:9px;
+	height:30px;
+}
+
+#muhammad-fajar-nazhief-51 {
+	position:absolute;
+	left:185px;
+	top:858px;
+	width:404px;
+	height:293px;
+}
+
+#muhammad-fajar-nazhief-52 {
+	position:absolute;
+	left:589px;
+	top:858px;
+	width:406px;
+	height:293px;
+}
+
+#muhammad-fajar-nazhief-53 {
+	position:absolute;
+	left:995px;
+	top:858px;
+	width:420px;
+	height:293px;
+}
+
+#muhammad-fajar-nazhief-54 {
+	position:absolute;
+	left:185px;
+	top:1151px;
+	width:1230px;
+	height:55px;
+}
+
+#muhammad-fajar-nazhief-55 {
+	position:absolute;
+	left:185px;
+	top:1206px;
+	width:20px;
+	height:1150px;
+}
+
+#muhammad-fajar-nazhief-56 {
+	position:absolute;
+	left:205px;
+	top:1206px;
+	width:172px;
+	height:31px;
+}
+
+#muhammad-fajar-nazhief-57 {
+	position:absolute;
+	left:377px;
+	top:1206px;
+	width:959px;
+	height:54px;
+}
+
+#muhammad-fajar-nazhief-58 {
+	position:absolute;
+	left:1336px;
+	top:1206px;
+	width:79px;
+	height:31px;
+}
+
+#muhammad-fajar-nazhief-59 {
+	position:absolute;
+	left:205px;
+	top:1237px;
+	width:172px;
+	height:23px;
+}
+
+#muhammad-fajar-nazhief-60 {
+	position:absolute;
+	left:1336px;
+	top:1237px;
+	width:79px;
+	height:23px;
+}
+
+#muhammad-fajar-nazhief-61 {
+	position:absolute;
+	left:205px;
+	top:1260px;
+	width:10px;
+	height:393px;
+}
+
+#muhammad-fajar-nazhief-62 {
+	position:absolute;
+	left:215px;
+	top:1260px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-63 {
+	position:absolute;
+	left:445px;
+	top:1260px;
+	width:5px;
+	height:444px;
+}
+
+#muhammad-fajar-nazhief-64 {
+	position:absolute;
+	left:450px;
+	top:1260px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-65 {
+	position:absolute;
+	left:680px;
+	top:1260px;
+	width:5px;
+	height:444px;
+}
+
+#muhammad-fajar-nazhief-66 {
+	position:absolute;
+	left:685px;
+	top:1260px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-67 {
+	position:absolute;
+	left:915px;
+	top:1260px;
+	width:5px;
+	height:444px;
+}
+
+#muhammad-fajar-nazhief-68 {
+	position:absolute;
+	left:920px;
+	top:1260px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-69 {
+	position:absolute;
+	left:1150px;
+	top:1260px;
+	width:5px;
+	height:444px;
+}
+
+#muhammad-fajar-nazhief-70 {
+	position:absolute;
+	left:1155px;
+	top:1260px;
+	width:229px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-71 {
+	position:absolute;
+	left:1384px;
+	top:1260px;
+	width:31px;
+	height:393px;
+}
+
+#muhammad-fajar-nazhief-72 {
+	position:absolute;
+	left:215px;
+	top:1395px;
+	width:230px;
+	height:5px;
+}
+
+#muhammad-fajar-nazhief-73 {
+	position:absolute;
+	left:450px;
+	top:1395px;
+	width:230px;
+	height:5px;
+}
+
+#muhammad-fajar-nazhief-74 {
+	position:absolute;
+	left:685px;
+	top:1395px;
+	width:230px;
+	height:5px;
+}
+
+#muhammad-fajar-nazhief-75 {
+	position:absolute;
+	left:920px;
+	top:1395px;
+	width:230px;
+	height:5px;
+}
+
+#muhammad-fajar-nazhief-76 {
+	position:absolute;
+	left:1155px;
+	top:1395px;
+	width:229px;
+	height:5px;
+}
+
+#muhammad-fajar-nazhief-77 {
+	position:absolute;
+	left:215px;
+	top:1400px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-78 {
+	position:absolute;
+	left:450px;
+	top:1400px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-79 {
+	position:absolute;
+	left:685px;
+	top:1400px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-80 {
+	position:absolute;
+	left:920px;
+	top:1400px;
+	width:230px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-81 {
+	position:absolute;
+	left:1155px;
+	top:1400px;
+	width:229px;
+	height:135px;
+}
+
+#muhammad-fajar-nazhief-82 {
+	position:absolute;
+	left:215px;
+	top:1535px;
+	width:230px;
+	height:118px;
+}
+
+#muhammad-fajar-nazhief-83 {
+	position:absolute;
+	left:450px;
+	top:1535px;
+	width:230px;
+	height:169px;
+}
+
+#muhammad-fajar-nazhief-84 {
+	position:absolute;
+	left:685px;
+	top:1535px;
+	width:230px;
+	height:169px;
+}
+
+#muhammad-fajar-nazhief-85 {
+	position:absolute;
+	left:920px;
+	top:1535px;
+	width:230px;
+	height:169px;
+}
+
+#muhammad-fajar-nazhief-86 {
+	position:absolute;
+	left:1155px;
+	top:1535px;
+	width:229px;
+	height:118px;
+}
+
+#muhammad-fajar-nazhief-87 {
+	position:absolute;
+	left:205px;
+	top:1653px;
+	width:206px;
+	height:27px;
+}
+
+#muhammad-fajar-nazhief-88 {
+	position:absolute;
+	left:411px;
+	top:1653px;
+	width:34px;
+	height:51px;
+}
+
+#muhammad-fajar-nazhief-89 {
+	position:absolute;
+	left:1155px;
+	top:1653px;
+	width:181px;
+	height:51px;
+}
+
+#muhammad-fajar-nazhief-90 {
+	position:absolute;
+	left:1336px;
+	top:1653px;
+	width:52px;
+	height:27px;
+}
+
+#muhammad-fajar-nazhief-91 {
+	position:absolute;
+	left:1388px;
+	top:1653px;
+	width:27px;
+	height:703px;
+}
+
+#muhammad-fajar-nazhief-92 {
+	position:absolute;
+	left:205px;
+	top:1680px;
+	width:206px;
+	height:24px;
+}
+
+#muhammad-fajar-nazhief-93 {
+	position:absolute;
+	left:1336px;
+	top:1680px;
+	width:52px;
+	height:24px;
+}
+
+#muhammad-fajar-nazhief-94 {
+	position:absolute;
+	left:205px;
+	top:1704px;
+	width:10px;
+	height:652px;
+}
+
+#muhammad-fajar-nazhief-95 {
+	position:absolute;
+	left:215px;
+	top:1704px;
+	width:270px;
+	height:355px;
+}
+
+#muhammad-fajar-nazhief-96 {
+	position:absolute;
+	left:485px;
+	top:1704px;
+	width:30px;
+	height:474px;
+}
+
+#muhammad-fajar-nazhief-97 {
+	position:absolute;
+	left:515px;
+	top:1704px;
+	width:270px;
+	height:355px;
+}
+
+#muhammad-fajar-nazhief-98 {
+	position:absolute;
+	left:785px;
+	top:1704px;
+	width:30px;
+	height:474px;
+}
+
+#muhammad-fajar-nazhief-99 {
+	position:absolute;
+	left:815px;
+	top:1704px;
+	width:270px;
+	height:355px;
+}
+
+#muhammad-fajar-nazhief-100 {
+	position:absolute;
+	left:1085px;
+	top:1704px;
+	width:30px;
+	height:474px;
+}
+
+#muhammad-fajar-nazhief-101 {
+	position:absolute;
+	left:1115px;
+	top:1704px;
+	width:273px;
+	height:355px;
+}
+
+#muhammad-fajar-nazhief-102 {
+	position:absolute;
+	left:215px;
+	top:2059px;
+	width:270px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-103 {
+	position:absolute;
+	left:515px;
+	top:2059px;
+	width:270px;
+	height:19px;
+}
+
+#muhammad-fajar-nazhief-104 {
+	position:absolute;
+	left:815px;
+	top:2059px;
+	width:270px;
+	height:19px;
+}
+
+#muhammad-fajar-nazhief-105 {
+	position:absolute;
+	left:1115px;
+	top:2059px;
+	width:273px;
+	height:18px;
+}
+
+#muhammad-fajar-nazhief-106 {
+	position:absolute;
+	left:215px;
+	top:2077px;
+	width:97px;
+	height:1px;
+}
+
+#muhammad-fajar-nazhief-107 {
+	position:absolute;
+	left:312px;
+	top:2077px;
+	width:26px;
+	height:15px;
+}
+
+#muhammad-fajar-nazhief-108 {
+	position:absolute;
+	left:338px;
+	top:2077px;
+	width:147px;
+	height:101px;
+}
+
+#muhammad-fajar-nazhief-109 {
+	position:absolute;
+	left:1115px;
+	top:2077px;
+	width:63px;
+	height:101px;
+}
+
+#muhammad-fajar-nazhief-110 {
+	position:absolute;
+	left:1178px;
+	top:2077px;
+	width:31px;
+	height:13px;
+}
+
+#muhammad-fajar-nazhief-111 {
+	position:absolute;
+	left:1209px;
+	top:2077px;
+	width:179px;
+	height:1px;
+}
+
+#muhammad-fajar-nazhief-112 {
+	position:absolute;
+	left:215px;
+	top:2078px;
+	width:63px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-113 {
+	position:absolute;
+	left:278px;
+	top:2078px;
+	width:32px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-114 {
+	position:absolute;
+	left:310px;
+	top:2078px;
+	width:2px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-115 {
+	position:absolute;
+	left:515px;
+	top:2078px;
+	width:63px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-116 {
+	position:absolute;
+	left:578px;
+	top:2078px;
+	width:33px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-117 {
+	position:absolute;
+	left:611px;
+	top:2078px;
+	width:27px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-118 {
+	position:absolute;
+	left:638px;
+	top:2078px;
+	width:147px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-119 {
+	position:absolute;
+	left:815px;
+	top:2078px;
+	width:63px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-120 {
+	position:absolute;
+	left:878px;
+	top:2078px;
+	width:32px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-121 {
+	position:absolute;
+	left:910px;
+	top:2078px;
+	width:30px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-122 {
+	position:absolute;
+	left:940px;
+	top:2078px;
+	width:145px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-123 {
+	position:absolute;
+	left:1209px;
+	top:2078px;
+	width:30px;
+	height:12px;
+}
+
+#muhammad-fajar-nazhief-124 {
+	position:absolute;
+	left:1239px;
+	top:2078px;
+	width:149px;
+	height:100px;
+}
+
+#muhammad-fajar-nazhief-125 {
+	position:absolute;
+	left:278px;
+	top:2090px;
+	width:32px;
+	height:88px;
+}
+
+#muhammad-fajar-nazhief-126 {
+	position:absolute;
+	left:578px;
+	top:2090px;
+	width:60px;
+	height:88px;
+}
+
+#muhammad-fajar-nazhief-127 {
+	position:absolute;
+	left:878px;
+	top:2090px;
+	width:62px;
+	height:88px;
+}
+
+#muhammad-fajar-nazhief-128 {
+	position:absolute;
+	left:1178px;
+	top:2090px;
+	width:61px;
+	height:88px;
+}
+
+#muhammad-fajar-nazhief-129 {
+	position:absolute;
+	left:312px;
+	top:2092px;
+	width:26px;
+	height:86px;
+}
+
+#muhammad-fajar-nazhief-130 {
+	position:absolute;
+	left:215px;
+	top:2178px;
+	width:1170px;
+	height:108px;
+}
+
+#muhammad-fajar-nazhief-131 {
+	position:absolute;
+	left:1385px;
+	top:2178px;
+	width:3px;
+	height:178px;
+}
+
+#muhammad-fajar-nazhief-132 {
+	position:absolute;
+	left:215px;
+	top:2286px;
+	width:1170px;
+	height:70px;
+}
+
+#muhammad-fajar-nazhief-133 {
+	position:absolute;
+	left:185px;
+	top:2356px;
+	width:57px;
+	height:52px;
+}
+
+#muhammad-fajar-nazhief-134 {
+	position:absolute;
+	left:242px;
+	top:2356px;
+	width:70px;
+	height:52px;
+}
+
+#muhammad-fajar-nazhief-135 {
+	position:absolute;
+	left:312px;
+	top:2356px;
+	width:1103px;
+	height:52px;
+}
+
+#muhammad-fajar-nazhief-136 {
+	position:absolute;
+	left:185px;
+	top:2408px;
+	width:1230px;
+	height:1px;
+}
+
+#muhammad-fajar-nazhief-137 {
+	position:absolute;
+	left:185px;
+	top:2409px;
+	width:312px;
+	height:268px;
+}
+
+#muhammad-fajar-nazhief-138 {
+	position:absolute;
+	left:497px;
+	top:2409px;
+	width:918px;
+	height:38px;
+}
+
+#muhammad-fajar-nazhief-139 {
+	position:absolute;
+	left:497px;
+	top:2447px;
+	width:18px;
+	height:230px;
+}
+
+#muhammad-fajar-nazhief-140 {
+	position:absolute;
+	left:515px;
+	top:2447px;
+	width:32px;
+	height:29px;
+}
+
+#muhammad-fajar-nazhief-141 {
+	position:absolute;
+	left:547px;
+	top:2447px;
+	width:260px;
+	height:54px;
+}
+
+#muhammad-fajar-nazhief-142 {
+	position:absolute;
+	left:807px;
+	top:2447px;
+	width:82px;
+	height:29px;
+}
+
+#muhammad-fajar-nazhief-143 {
+	position:absolute;
+	left:889px;
+	top:2447px;
+	width:211px;
+	height:44px;
+}
+
+#muhammad-fajar-nazhief-144 {
+	position:absolute;
+	left:1100px;
+	top:2447px;
+	width:100px;
+	height:44px;
+}
+
+#muhammad-fajar-nazhief-145 {
+	position:absolute;
+	left:1200px;
+	top:2447px;
+	width:215px;
+	height:54px;
+}
+
+#muhammad-fajar-nazhief-146 {
+	position:absolute;
+	left:515px;
+	top:2476px;
+	width:32px;
+	height:25px;
+}
+
+#muhammad-fajar-nazhief-147 {
+	position:absolute;
+	left:807px;
+	top:2476px;
+	width:82px;
+	height:15px;
+}
+
+#muhammad-fajar-nazhief-148 {
+	position:absolute;
+	left:807px;
+	top:2491px;
+	width:168px;
+	height:26px;
+}
+
+#muhammad-fajar-nazhief-149 {
+	position:absolute;
+	left:975px;
+	top:2491px;
+	width:225px;
+	height:10px;
+}
+
+#muhammad-fajar-nazhief-150 {
+	position:absolute;
+	left:515px;
+	top:2501px;
+	width:56px;
+	height:31px;
+}
+
+#muhammad-fajar-nazhief-151 {
+	position:absolute;
+	left:571px;
+	top:2501px;
+	width:3px;
+	height:34px;
+}
+
+#muhammad-fajar-nazhief-152 {
+	position:absolute;
+	left:574px;
+	top:2501px;
+	width:74px;
+	height:31px;
+}
+
+#muhammad-fajar-nazhief-153 {
+	position:absolute;
+	left:648px;
+	top:2501px;
+	width:3px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-154 {
+	position:absolute;
+	left:651px;
+	top:2501px;
+	width:97px;
+	height:30px;
+}
+
+#muhammad-fajar-nazhief-155 {
+	position:absolute;
+	left:748px;
+	top:2501px;
+	width:59px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-156 {
+	position:absolute;
+	left:975px;
+	top:2501px;
+	width:140px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-157 {
+	position:absolute;
+	left:1115px;
+	top:2501px;
+	width:60px;
+	height:60px;
+}
+
+#muhammad-fajar-nazhief-158 {
+	position:absolute;
+	left:1175px;
+	top:2501px;
+	width:10px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-159 {
+	position:absolute;
+	left:1185px;
+	top:2501px;
+	width:60px;
+	height:60px;
+}
+
+#muhammad-fajar-nazhief-160 {
+	position:absolute;
+	left:1245px;
+	top:2501px;
+	width:10px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-161 {
+	position:absolute;
+	left:1255px;
+	top:2501px;
+	width:60px;
+	height:60px;
+}
+
+#muhammad-fajar-nazhief-162 {
+	position:absolute;
+	left:1315px;
+	top:2501px;
+	width:9px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-163 {
+	position:absolute;
+	left:1324px;
+	top:2501px;
+	width:61px;
+	height:60px;
+}
+
+#muhammad-fajar-nazhief-164 {
+	position:absolute;
+	left:1385px;
+	top:2501px;
+	width:30px;
+	height:176px;
+}
+
+#muhammad-fajar-nazhief-165 {
+	position:absolute;
+	left:807px;
+	top:2517px;
+	width:168px;
+	height:34px;
+}
+
+#muhammad-fajar-nazhief-166 {
+	position:absolute;
+	left:651px;
+	top:2531px;
+	width:97px;
+	height:146px;
+}
+
+#muhammad-fajar-nazhief-167 {
+	position:absolute;
+	left:515px;
+	top:2532px;
+	width:56px;
+	height:3px;
+}
+
+#muhammad-fajar-nazhief-168 {
+	position:absolute;
+	left:574px;
+	top:2532px;
+	width:74px;
+	height:3px;
+}
+
+#muhammad-fajar-nazhief-169 {
+	position:absolute;
+	left:515px;
+	top:2535px;
+	width:100px;
+	height:31px;
+}
+
+#muhammad-fajar-nazhief-170 {
+	position:absolute;
+	left:615px;
+	top:2535px;
+	width:33px;
+	height:142px;
+}
+
+#muhammad-fajar-nazhief-171 {
+	position:absolute;
+	left:807px;
+	top:2551px;
+	width:168px;
+	height:24px;
+}
+
+#muhammad-fajar-nazhief-172 {
+	position:absolute;
+	left:1115px;
+	top:2561px;
+	width:60px;
+	height:116px;
+}
+
+#muhammad-fajar-nazhief-173 {
+	position:absolute;
+	left:1185px;
+	top:2561px;
+	width:60px;
+	height:116px;
+}
+
+#muhammad-fajar-nazhief-174 {
+	position:absolute;
+	left:1255px;
+	top:2561px;
+	width:60px;
+	height:116px;
+}
+
+#muhammad-fajar-nazhief-175 {
+	position:absolute;
+	left:1324px;
+	top:2561px;
+	width:61px;
+	height:116px;
+}
+
+#muhammad-fajar-nazhief-176 {
+	position:absolute;
+	left:515px;
+	top:2566px;
+	width:100px;
+	height:111px;
+}
+
+#muhammad-fajar-nazhief-177 {
+	position:absolute;
+	left:807px;
+	top:2575px;
+	width:168px;
+	height:29px;
+}
+
+#muhammad-fajar-nazhief-178 {
+	position:absolute;
+	left:807px;
+	top:2604px;
+	width:168px;
+	height:73px;
+}
+
+#muhammad-fajar-nazhief-179 {
+	position:absolute;
+	left:185px;
+	top:2677px;
+	width:1005px;
+	height:69px;
+}
+
+#muhammad-fajar-nazhief-180 {
+	position:absolute;
+	left:1190px;
+	top:2677px;
+	width:60px;
+	height:69px;
+}
+
+#muhammad-fajar-nazhief-181 {
+	position:absolute;
+	left:1250px;
+	top:2677px;
+	width:35px;
+	height:69px;
+}
+
+#muhammad-fajar-nazhief-182 {
+	position:absolute;
+	left:1285px;
+	top:2677px;
+	width:30px;
+	height:8px;
+}
+
+#muhammad-fajar-nazhief-183 {
+	position:absolute;
+	left:1315px;
+	top:2677px;
+	width:34px;
+	height:69px;
+}
+
+#muhammad-fajar-nazhief-184 {
+	position:absolute;
+	left:1349px;
+	top:2677px;
+	width:66px;
+	height:69px;
+}
+
+#muhammad-fajar-nazhief-185 {
+	position:absolute;
+	left:1285px;
+	top:2685px;
+	width:30px;
+	height:61px;
+}
+
+-->
+</style>
+<!-- End ImageReady Styles -->
+</head>
+<body style="background-color:#FFFFFF; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;">
+<!-- ImageReady Slices (indonesiaX-tri-test.psd) -->
+<div id="Table_01">
+	<div id="muhammad-fajar-nazhief-01">
+		<img src="images/muhammad_fajar_nazhief_01.gif" width="1600" height="35" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-02">
+		<img src="images/muhammad_fajar_nazhief_02.gif" width="1170" height="6" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-03">
+		<img src="images/muhammad_fajar_nazhief_03.gif" width="205" height="37" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-04">
+		<img src="images/muhammad_fajar_nazhief_04.gif" width="40" height="37" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-05">
+		<img src="images/muhammad_fajar_nazhief_05.gif" width="185" height="2711" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-06">
+		<img src="images/muhammad_fajar_nazhief_06.gif" width="185" height="2705" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-07">
+		<img src="images/muhammad_fajar_nazhief_07.gif" width="323" height="80" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-08">
+		<img src="images/muhammad_fajar_nazhief_08.gif" width="662" height="88" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-09">
+		<img src="images/muhammad_fajar_nazhief_09.gif" width="245" height="58" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-10">
+		<img src="images/muhammad_fajar_nazhief_10.gif" width="323" height="43" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-11">
+		<img src="images/muhammad_fajar_nazhief_11.gif" width="533" height="2" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-12">
+		<img src="images/muhammad_fajar_nazhief_12.gif" width="59" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-13">
+		<img src="images/muhammad_fajar_nazhief_13.gif" width="70" height="1" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-14">
+		<img src="images/muhammad_fajar_nazhief_14.gif" width="26" height="35" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-15">
+		<img src="images/muhammad_fajar_nazhief_15.gif" width="59" height="16" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-16">
+		<img src="images/muhammad_fajar_nazhief_16.gif" width="24" height="35" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-17">
+		<img src="images/muhammad_fajar_nazhief_17.gif" width="36" height="17" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-18">
+		<img src="images/muhammad_fajar_nazhief_18.gif" width="25" height="35" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-19">
+		<img src="images/muhammad_fajar_nazhief_19.gif" width="66" height="16" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-20">
+		<img src="images/muhammad_fajar_nazhief_20.gif" width="30" height="35" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-21">
+		<img src="images/muhammad_fajar_nazhief_21.gif" width="49" height="16" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-22">
+		<img src="images/muhammad_fajar_nazhief_22.gif" width="467" height="33" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-23">
+		<img src="images/muhammad_fajar_nazhief_23.gif" width="40" height="16" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-24">
+		<img src="images/muhammad_fajar_nazhief_24.gif" width="26" height="34" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-25">
+		<img src="images/muhammad_fajar_nazhief_25.gif" width="59" height="19" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-26">
+		<img src="images/muhammad_fajar_nazhief_26.gif" width="66" height="19" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-27">
+		<img src="images/muhammad_fajar_nazhief_27.gif" width="49" height="19" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-28">
+		<img src="images/muhammad_fajar_nazhief_28.gif" width="40" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-29">
+		<img src="images/muhammad_fajar_nazhief_29.gif" width="59" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-30">
+		<img src="images/muhammad_fajar_nazhief_30.gif" width="36" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-31">
+		<img src="images/muhammad_fajar_nazhief_31.gif" width="482" height="232" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-32">
+		<img src="images/muhammad_fajar_nazhief_32.gif" width="308" height="1" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-33">
+		<img src="images/muhammad_fajar_nazhief_33.gif" width="748" height="462" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-34">
+		<img src="images/muhammad_fajar_nazhief_34.gif" width="482" height="231" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-35">
+		<img src="images/muhammad_fajar_nazhief_35.gif" width="482" height="231" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-36">
+		<img src="images/muhammad_fajar_nazhief_36.gif" width="748" height="116" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-37">
+		<img src="images/muhammad_fajar_nazhief_37.gif" width="748" height="11" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-38">
+		<img src="images/muhammad_fajar_nazhief_38.gif" width="40" height="104" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-39">
+		<img src="images/muhammad_fajar_nazhief_39.gif" width="100" height="38" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-40">
+		<img src="images/muhammad_fajar_nazhief_40.gif" width="608" height="104" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-41">
+		<img src="images/muhammad_fajar_nazhief_41.gif" width="100" height="27" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-42">
+		<img src="images/muhammad_fajar_nazhief_42.gif" width="9" height="9" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-43">
+		<img src="images/muhammad_fajar_nazhief_43.gif" width="7" height="39" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-44">
+		<img src="images/muhammad_fajar_nazhief_44.gif" width="9" height="9" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-45">
+		<img src="images/muhammad_fajar_nazhief_45.gif" width="7" height="39" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-46">
+		<img src="images/muhammad_fajar_nazhief_46.gif" width="9" height="9" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-47">
+		<img src="images/muhammad_fajar_nazhief_47.gif" width="59" height="39" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-48">
+		<img src="images/muhammad_fajar_nazhief_48.gif" width="9" height="30" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-49">
+		<img src="images/muhammad_fajar_nazhief_49.gif" width="9" height="30" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-50">
+		<img src="images/muhammad_fajar_nazhief_50.gif" width="9" height="30" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-51">
+		<img src="images/muhammad_fajar_nazhief_51.gif" width="404" height="293" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-52">
+		<img src="images/muhammad_fajar_nazhief_52.gif" width="406" height="293" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-53">
+		<img src="images/muhammad_fajar_nazhief_53.gif" width="420" height="293" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-54">
+		<img src="images/muhammad_fajar_nazhief_54.gif" width="1230" height="55" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-55">
+		<img src="images/muhammad_fajar_nazhief_55.gif" width="20" height="1150" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-56">
+		<img src="images/muhammad_fajar_nazhief_56.gif" width="172" height="31" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-57">
+		<img src="images/muhammad_fajar_nazhief_57.gif" width="959" height="54" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-58">
+		<img src="images/muhammad_fajar_nazhief_58.gif" width="79" height="31" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-59">
+		<img src="images/muhammad_fajar_nazhief_59.gif" width="172" height="23" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-60">
+		<img src="images/muhammad_fajar_nazhief_60.gif" width="79" height="23" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-61">
+		<img src="images/muhammad_fajar_nazhief_61.gif" width="10" height="393" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-62">
+		<img src="images/muhammad_fajar_nazhief_62.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-63">
+		<img src="images/muhammad_fajar_nazhief_63.gif" width="5" height="444" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-64">
+		<img src="images/muhammad_fajar_nazhief_64.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-65">
+		<img src="images/muhammad_fajar_nazhief_65.gif" width="5" height="444" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-66">
+		<img src="images/muhammad_fajar_nazhief_66.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-67">
+		<img src="images/muhammad_fajar_nazhief_67.gif" width="5" height="444" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-68">
+		<img src="images/muhammad_fajar_nazhief_68.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-69">
+		<img src="images/muhammad_fajar_nazhief_69.gif" width="5" height="444" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-70">
+		<img src="images/muhammad_fajar_nazhief_70.gif" width="229" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-71">
+		<img src="images/muhammad_fajar_nazhief_71.gif" width="31" height="393" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-72">
+		<img src="images/muhammad_fajar_nazhief_72.gif" width="230" height="5" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-73">
+		<img src="images/muhammad_fajar_nazhief_73.gif" width="230" height="5" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-74">
+		<img src="images/muhammad_fajar_nazhief_74.gif" width="230" height="5" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-75">
+		<img src="images/muhammad_fajar_nazhief_75.gif" width="230" height="5" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-76">
+		<img src="images/muhammad_fajar_nazhief_76.gif" width="229" height="5" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-77">
+		<img src="images/muhammad_fajar_nazhief_77.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-78">
+		<img src="images/muhammad_fajar_nazhief_78.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-79">
+		<img src="images/muhammad_fajar_nazhief_79.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-80">
+		<img src="images/muhammad_fajar_nazhief_80.gif" width="230" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-81">
+		<img src="images/muhammad_fajar_nazhief_81.gif" width="229" height="135" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-82">
+		<img src="images/muhammad_fajar_nazhief_82.gif" width="230" height="118" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-83">
+		<img src="images/muhammad_fajar_nazhief_83.gif" width="230" height="169" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-84">
+		<img src="images/muhammad_fajar_nazhief_84.gif" width="230" height="169" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-85">
+		<img src="images/muhammad_fajar_nazhief_85.gif" width="230" height="169" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-86">
+		<img src="images/muhammad_fajar_nazhief_86.gif" width="229" height="118" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-87">
+		<img src="images/muhammad_fajar_nazhief_87.gif" width="206" height="27" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-88">
+		<img src="images/muhammad_fajar_nazhief_88.gif" width="34" height="51" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-89">
+		<img src="images/muhammad_fajar_nazhief_89.gif" width="181" height="51" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-90">
+		<img src="images/muhammad_fajar_nazhief_90.gif" width="52" height="27" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-91">
+		<img src="images/muhammad_fajar_nazhief_91.gif" width="27" height="703" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-92">
+		<img src="images/muhammad_fajar_nazhief_92.gif" width="206" height="24" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-93">
+		<img src="images/muhammad_fajar_nazhief_93.gif" width="52" height="24" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-94">
+		<img src="images/muhammad_fajar_nazhief_94.gif" width="10" height="652" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-95">
+		<img src="images/muhammad_fajar_nazhief_95.gif" width="270" height="355" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-96">
+		<img src="images/muhammad_fajar_nazhief_96.gif" width="30" height="474" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-97">
+		<img src="images/muhammad_fajar_nazhief_97.gif" width="270" height="355" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-98">
+		<img src="images/muhammad_fajar_nazhief_98.gif" width="30" height="474" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-99">
+		<img src="images/muhammad_fajar_nazhief_99.gif" width="270" height="355" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-100">
+		<img src="images/muhammad_fajar_nazhief_100.gif" width="30" height="474" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-101">
+		<img src="images/muhammad_fajar_nazhief_101.gif" width="273" height="355" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-102">
+		<img src="images/muhammad_fajar_nazhief_102.gif" width="270" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-103">
+		<img src="images/muhammad_fajar_nazhief_103.gif" width="270" height="19" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-104">
+		<img src="images/muhammad_fajar_nazhief_104.gif" width="270" height="19" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-105">
+		<img src="images/muhammad_fajar_nazhief_105.gif" width="273" height="18" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-106">
+		<img src="images/muhammad_fajar_nazhief_106.gif" width="97" height="1" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-107">
+		<img src="images/muhammad_fajar_nazhief_107.gif" width="26" height="15" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-108">
+		<img src="images/muhammad_fajar_nazhief_108.gif" width="147" height="101" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-109">
+		<img src="images/muhammad_fajar_nazhief_109.gif" width="63" height="101" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-110">
+		<img src="images/muhammad_fajar_nazhief_110.gif" width="31" height="13" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-111">
+		<img src="images/muhammad_fajar_nazhief_111.gif" width="179" height="1" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-112">
+		<img src="images/muhammad_fajar_nazhief_112.gif" width="63" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-113">
+		<img src="images/muhammad_fajar_nazhief_113.gif" width="32" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-114">
+		<img src="images/muhammad_fajar_nazhief_114.gif" width="2" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-115">
+		<img src="images/muhammad_fajar_nazhief_115.gif" width="63" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-116">
+		<img src="images/muhammad_fajar_nazhief_116.gif" width="33" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-117">
+		<img src="images/muhammad_fajar_nazhief_117.gif" width="27" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-118">
+		<img src="images/muhammad_fajar_nazhief_118.gif" width="147" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-119">
+		<img src="images/muhammad_fajar_nazhief_119.gif" width="63" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-120">
+		<img src="images/muhammad_fajar_nazhief_120.gif" width="32" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-121">
+		<img src="images/muhammad_fajar_nazhief_121.gif" width="30" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-122">
+		<img src="images/muhammad_fajar_nazhief_122.gif" width="145" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-123">
+		<img src="images/muhammad_fajar_nazhief_123.gif" width="30" height="12" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-124">
+		<img src="images/muhammad_fajar_nazhief_124.gif" width="149" height="100" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-125">
+		<img src="images/muhammad_fajar_nazhief_125.gif" width="32" height="88" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-126">
+		<img src="images/muhammad_fajar_nazhief_126.gif" width="60" height="88" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-127">
+		<img src="images/muhammad_fajar_nazhief_127.gif" width="62" height="88" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-128">
+		<img src="images/muhammad_fajar_nazhief_128.gif" width="61" height="88" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-129">
+		<img src="images/muhammad_fajar_nazhief_129.gif" width="26" height="86" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-130">
+		<img src="images/muhammad_fajar_nazhief_130.gif" width="1170" height="108" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-131">
+		<img src="images/muhammad_fajar_nazhief_131.gif" width="3" height="178" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-132">
+		<img src="images/muhammad_fajar_nazhief_132.gif" width="1170" height="70" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-133">
+		<img src="images/muhammad_fajar_nazhief_133.gif" width="57" height="52" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-134">
+		<img src="images/muhammad_fajar_nazhief_134.gif" width="70" height="52" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-135">
+		<img src="images/muhammad_fajar_nazhief_135.gif" width="1103" height="52" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-136">
+		<img src="images/muhammad_fajar_nazhief_136.gif" width="1230" height="1" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-137">
+		<img src="images/muhammad_fajar_nazhief_137.gif" width="312" height="268" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-138">
+		<img src="images/muhammad_fajar_nazhief_138.gif" width="918" height="38" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-139">
+		<img src="images/muhammad_fajar_nazhief_139.gif" width="18" height="230" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-140">
+		<img src="images/muhammad_fajar_nazhief_140.gif" width="32" height="29" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-141">
+		<img src="images/muhammad_fajar_nazhief_141.gif" width="260" height="54" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-142">
+		<img src="images/muhammad_fajar_nazhief_142.gif" width="82" height="29" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-143">
+		<img src="images/muhammad_fajar_nazhief_143.gif" width="211" height="44" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-144">
+		<img src="images/muhammad_fajar_nazhief_144.gif" width="100" height="44" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-145">
+		<img src="images/muhammad_fajar_nazhief_145.gif" width="215" height="54" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-146">
+		<img src="images/muhammad_fajar_nazhief_146.gif" width="32" height="25" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-147">
+		<img src="images/muhammad_fajar_nazhief_147.gif" width="82" height="15" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-148">
+		<img src="images/muhammad_fajar_nazhief_148.gif" width="168" height="26" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-149">
+		<img src="images/muhammad_fajar_nazhief_149.gif" width="225" height="10" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-150">
+		<img src="images/muhammad_fajar_nazhief_150.gif" width="56" height="31" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-151">
+		<img src="images/muhammad_fajar_nazhief_151.gif" width="3" height="34" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-152">
+		<img src="images/muhammad_fajar_nazhief_152.gif" width="74" height="31" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-153">
+		<img src="images/muhammad_fajar_nazhief_153.gif" width="3" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-154">
+		<img src="images/muhammad_fajar_nazhief_154.gif" width="97" height="30" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-155">
+		<img src="images/muhammad_fajar_nazhief_155.gif" width="59" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-156">
+		<img src="images/muhammad_fajar_nazhief_156.gif" width="140" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-157">
+		<img src="images/muhammad_fajar_nazhief_157.gif" width="60" height="60" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-158">
+		<img src="images/muhammad_fajar_nazhief_158.gif" width="10" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-159">
+		<img src="images/muhammad_fajar_nazhief_159.gif" width="60" height="60" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-160">
+		<img src="images/muhammad_fajar_nazhief_160.gif" width="10" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-161">
+		<img src="images/muhammad_fajar_nazhief_161.gif" width="60" height="60" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-162">
+		<img src="images/muhammad_fajar_nazhief_162.gif" width="9" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-163">
+		<img src="images/muhammad_fajar_nazhief_163.gif" width="61" height="60" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-164">
+		<img src="images/muhammad_fajar_nazhief_164.gif" width="30" height="176" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-165">
+		<img src="images/muhammad_fajar_nazhief_165.gif" width="168" height="34" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-166">
+		<img src="images/muhammad_fajar_nazhief_166.gif" width="97" height="146" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-167">
+		<img src="images/muhammad_fajar_nazhief_167.gif" width="56" height="3" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-168">
+		<img src="images/muhammad_fajar_nazhief_168.gif" width="74" height="3" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-169">
+		<img src="images/muhammad_fajar_nazhief_169.gif" width="100" height="31" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-170">
+		<img src="images/muhammad_fajar_nazhief_170.gif" width="33" height="142" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-171">
+		<img src="images/muhammad_fajar_nazhief_171.gif" width="168" height="24" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-172">
+		<img src="images/muhammad_fajar_nazhief_172.gif" width="60" height="116" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-173">
+		<img src="images/muhammad_fajar_nazhief_173.gif" width="60" height="116" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-174">
+		<img src="images/muhammad_fajar_nazhief_174.gif" width="60" height="116" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-175">
+		<img src="images/muhammad_fajar_nazhief_175.gif" width="61" height="116" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-176">
+		<img src="images/muhammad_fajar_nazhief_176.gif" width="100" height="111" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-177">
+		<img src="images/muhammad_fajar_nazhief_177.gif" width="168" height="29" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-178">
+		<img src="images/muhammad_fajar_nazhief_178.gif" width="168" height="73" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-179">
+		<img src="images/muhammad_fajar_nazhief_179.gif" width="1005" height="69" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-180">
+		<img src="images/muhammad_fajar_nazhief_180.gif" width="60" height="69" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-181">
+		<img src="images/muhammad_fajar_nazhief_181.gif" width="35" height="69" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-182">
+		<img src="images/muhammad_fajar_nazhief_182.gif" width="30" height="8" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-183">
+		<img src="images/muhammad_fajar_nazhief_183.gif" width="34" height="69" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-184">
+		<img src="images/muhammad_fajar_nazhief_184.gif" width="66" height="69" alt="">
+	</div>
+	<div id="muhammad-fajar-nazhief-185">
+		<img src="images/muhammad_fajar_nazhief_185.gif" width="30" height="61" alt="">
+	</div>
+</div>
+<!-- End ImageReady Slices -->
+</body>
+</html>
